@@ -116,6 +116,10 @@ module.exports = {
   }
 ]
 
+18 - yarn add uuidv4 -> biblioteca de id unico
+
+19 - yarn add date-fns
+
 
 
 
